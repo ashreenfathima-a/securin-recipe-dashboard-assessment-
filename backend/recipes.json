@@ -1,0 +1,222 @@
+[
+  {
+    "cuisine": "Dessert",
+    "title": "Sweet Potato Pie",
+    "rating": 4.8,
+    "prep_time": 15,
+    "cook_time": 100,
+    "total_time": 115,
+    "serves": "8 servings",
+    "description": "Classic homemade sweet potato pie.",
+    "ingredients": ["Sweet potatoes", "Sugar", "Butter", "Eggs"],
+    "nutrients": {
+      "calories": "389 kcal",
+      "carbohydrateContent": "48g",
+      "cholesterolContent": "72mg",
+      "fiberContent": "3g",
+      "proteinContent": "5g",
+      "saturatedFatContent": "8g",
+      "sodiumContent": "210mg",
+      "sugarContent": "30g",
+      "fatContent": "18g"
+    }
+  },
+  {
+    "cuisine": "Beverage",
+    "title": "Oreo Milkshake",
+    "rating": 4.6,
+    "prep_time": 5,
+    "cook_time": 0,
+    "total_time": 5,
+    "serves": "2 glasses",
+    "description": "Creamy Oreo milkshake with ice cream.",
+    "ingredients": ["Oreo", "Milk", "Ice cream"],
+    "nutrients": {
+      "calories": "350 kcal",
+      "carbohydrateContent": "42g",
+      "cholesterolContent": "30mg",
+      "fiberContent": "2g",
+      "proteinContent": "6g",
+      "saturatedFatContent": "6g",
+      "sodiumContent": "180mg",
+      "sugarContent": "28g",
+      "fatContent": "14g"
+    }
+  },
+  {
+    "cuisine": "Dessert",
+    "title": "Chocolate Cake",
+    "rating": 4.9,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "serves": "6 slices",
+    "description": "Rich and moist chocolate cake.",
+    "ingredients": ["Flour", "Cocoa", "Sugar", "Eggs"],
+    "nutrients": {
+      "calories": "450 kcal",
+      "carbohydrateContent": "55g",
+      "cholesterolContent": "65mg",
+      "fiberContent": "4g",
+      "proteinContent": "7g",
+      "saturatedFatContent": "10g",
+      "sodiumContent": "220mg",
+      "sugarContent": "35g",
+      "fatContent": "22g"
+    }
+  },
+  {
+    "cuisine": "Beverage",
+    "title": "Cold Coffee",
+    "rating": 4.4,
+    "prep_time": 5,
+    "cook_time": 0,
+    "total_time": 5,
+    "serves": "1 glass",
+    "description": "Refreshing cold coffee.",
+    "ingredients": ["Coffee", "Milk", "Sugar"],
+    "nutrients": {
+      "calories": "150 kcal",
+      "carbohydrateContent": "18g",
+      "cholesterolContent": "10mg",
+      "fiberContent": "0g",
+      "proteinContent": "4g",
+      "saturatedFatContent": "2g",
+      "sodiumContent": "90mg",
+      "sugarContent": "14g",
+      "fatContent": "5g"
+    }
+  },
+  {
+    "cuisine": "Breakfast",
+    "title": "Pancakes",
+    "rating": 4.7,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "serves": "4 pancakes",
+    "description": "Soft fluffy pancakes.",
+    "ingredients": ["Flour", "Milk", "Egg", "Butter"],
+    "nutrients": {
+      "calories": "220 kcal",
+      "carbohydrateContent": "28g",
+      "cholesterolContent": "40mg",
+      "fiberContent": "1g",
+      "proteinContent": "6g",
+      "saturatedFatContent": "3g",
+      "sodiumContent": "160mg",
+      "sugarContent": "8g",
+      "fatContent": "7g"
+    }
+  },
+  {
+    "cuisine": "Snack",
+    "title": "French Fries",
+    "rating": 4.3,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "serves": "2 servings",
+    "description": "Crispy golden fries.",
+    "ingredients": ["Potatoes", "Salt", "Oil"],
+    "nutrients": {
+      "calories": "312 kcal",
+      "carbohydrateContent": "41g",
+      "cholesterolContent": "0mg",
+      "fiberContent": "4g",
+      "proteinContent": "3g",
+      "saturatedFatContent": "2g",
+      "sodiumContent": "210mg",
+      "sugarContent": "1g",
+      "fatContent": "15g"
+    }
+  },
+  {
+    "cuisine": "Snack",
+    "title": "Veg Sandwich",
+    "rating": 4.5,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "serves": "1 serving",
+    "description": "Healthy vegetable sandwich.",
+    "ingredients": ["Bread", "Vegetables", "Butter"],
+    "nutrients": {
+      "calories": "250 kcal",
+      "carbohydrateContent": "30g",
+      "cholesterolContent": "12mg",
+      "fiberContent": "5g",
+      "proteinContent": "8g",
+      "saturatedFatContent": "4g",
+      "sodiumContent": "180mg",
+      "sugarContent": "5g",
+      "fatContent": "9g"
+    }
+  },
+  {
+    "cuisine": "Indian",
+    "title": "Masala Dosa",
+    "rating": 4.9,
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "serves": "2 servings",
+    "description": "Crispy dosa with potato filling.",
+    "ingredients": ["Rice batter", "Potato", "Spices"],
+    "nutrients": {
+      "calories": "320 kcal",
+      "carbohydrateContent": "45g",
+      "cholesterolContent": "0mg",
+      "fiberContent": "3g",
+      "proteinContent": "7g",
+      "saturatedFatContent": "2g",
+      "sodiumContent": "200mg",
+      "sugarContent": "3g",
+      "fatContent": "8g"
+    }
+  },
+  {
+    "cuisine": "Italian",
+    "title": "Margherita Pizza",
+    "rating": 4.8,
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "serves": "4 slices",
+    "description": "Classic cheese pizza.",
+    "ingredients": ["Flour", "Cheese", "Tomato sauce"],
+    "nutrients": {
+      "calories": "285 kcal",
+      "carbohydrateContent": "36g",
+      "cholesterolContent": "18mg",
+      "fiberContent": "2g",
+      "proteinContent": "12g",
+      "saturatedFatContent": "6g",
+      "sodiumContent": "250mg",
+      "sugarContent": "4g",
+      "fatContent": "10g"
+    }
+  },
+  {
+    "cuisine": "Dessert",
+    "title": "Vanilla Ice Cream",
+    "rating": 4.6,
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "serves": "2 scoops",
+    "description": "Creamy vanilla ice cream.",
+    "ingredients": ["Milk", "Sugar", "Cream"],
+    "nutrients": {
+      "calories": "207 kcal",
+      "carbohydrateContent": "24g",
+      "cholesterolContent": "44mg",
+      "fiberContent": "0g",
+      "proteinContent": "3g",
+      "saturatedFatContent": "7g",
+      "sodiumContent": "80mg",
+      "sugarContent": "21g",
+      "fatContent": "11g"
+    }
+  }
+]
